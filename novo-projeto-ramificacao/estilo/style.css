@@ -10,5 +10,9 @@ body {
 main {
     background-color:cadetblue;
     margin: 50px;
-    padding: 10px;
+    padding: 30px;
 }
+ header {
+     text-align: center;
+     font-size: 50px;
+ }
